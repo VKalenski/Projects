@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\bin\Debug\net5.0\PrimeMultiplicationTable.exe
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\bin\Debug\net5.0\PrimeMultiplicationTable.deps.json
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\bin\Debug\net5.0\PrimeMultiplicationTable.runtimeconfig.json
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\bin\Debug\net5.0\PrimeMultiplicationTable.runtimeconfig.dev.json
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\bin\Debug\net5.0\PrimeMultiplicationTable.dll
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\bin\Debug\net5.0\ref\PrimeMultiplicationTable.dll
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\bin\Debug\net5.0\PrimeMultiplicationTable.pdb
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\obj\Debug\net5.0\PrimeMultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\obj\Debug\net5.0\PrimeMultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\obj\Debug\net5.0\PrimeMultiplicationTable.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\obj\Debug\net5.0\PrimeMultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\obj\Debug\net5.0\PrimeMultiplicationTable.dll
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\obj\Debug\net5.0\ref\PrimeMultiplicationTable.dll
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\obj\Debug\net5.0\PrimeMultiplicationTable.pdb
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\obj\Debug\net5.0\PrimeMultiplicationTable.genruntimeconfig.cache
+C:\Users\PC\Desktop\New folder\TablePrimeNumbers\TablePrimeNumbers\obj\Debug\net5.0\PrimeMultiplicationTable.csproj.AssemblyReference.cache
