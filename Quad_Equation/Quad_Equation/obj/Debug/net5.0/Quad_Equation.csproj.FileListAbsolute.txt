@@ -1,0 +1,64 @@
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.exe
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.deps.json
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.runtimeconfig.json
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.runtimeconfig.dev.json
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.dll
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\bin\Debug\net5.0\ref\Quad_Equation.dll
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.pdb
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.dll
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\obj\Debug\net5.0\ref\Quad_Equation.dll
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.pdb
+C:\Users\PC\Desktop\New folder (3)\Quad_Equation\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.genruntimeconfig.cache
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.exe
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.deps.json
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.runtimeconfig.json
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.dll
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\bin\Debug\net5.0\ref\Quad_Equation.dll
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.pdb
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.AssemblyInfo.cs
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.dll
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\obj\Debug\net5.0\ref\Quad_Equation.dll
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.pdb
+C:\Users\PC\Desktop\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.genruntimeconfig.cache
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.exe
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.deps.json
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.runtimeconfig.json
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.runtimeconfig.dev.json
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.dll
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\bin\Debug\net5.0\ref\Quad_Equation.dll
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.pdb
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.csproj.AssemblyReference.cache
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.AssemblyInfoInputs.cache
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.AssemblyInfo.cs
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.dll
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\obj\Debug\net5.0\ref\Quad_Equation.dll
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.pdb
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\100_Other\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.genruntimeconfig.cache
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.exe
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.deps.json
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.runtimeconfig.json
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.runtimeconfig.dev.json
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.dll
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\bin\Debug\net5.0\Quad_Equation.pdb
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.csproj.AssemblyReference.cache
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.AssemblyInfoInputs.cache
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.AssemblyInfo.cs
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.csproj.CoreCompileInputs.cache
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.dll
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\obj\Debug\net5.0\refint\Quad_Equation.dll
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.pdb
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\obj\Debug\net5.0\Quad_Equation.genruntimeconfig.cache
+C:\Users\Vilislav\Documents\GitHub\Projects\Quad_Equation\Quad_Equation\obj\Debug\net5.0\ref\Quad_Equation.dll
